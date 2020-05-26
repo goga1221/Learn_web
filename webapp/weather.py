@@ -29,5 +29,5 @@ def weather_by_city(city_name):
 
 
 if __name__ == "__main__":
-    w = weather_by_city("Moscow")
+    w = weather_by_city("Bishkek")
     print(w)
